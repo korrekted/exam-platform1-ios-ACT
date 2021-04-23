@@ -105,6 +105,7 @@ private extension OSlide8View {
     
     func makeImageView() -> UIImageView {
         let view = UIImageView()
+        view.contentMode = .scaleAspectFit
         view.clipsToBounds = true
         view.translatesAutoresizingMaskIntoConstraints = false
         addSubview(view)
@@ -123,8 +124,8 @@ private extension OSlide8View {
         let view = UISlider()
         view.minimumValue = 1
         view.maximumValue = 7
-        view.minimumTrackTintColor = UIColor(integralRed: 198, green: 54, blue: 136)
-        view.maximumTrackTintColor = UIColor(integralRed: 198, green: 54, blue: 136, alpha: 0.3)
+        view.minimumTrackTintColor = UIColor(integralRed: 61, green: 148, blue: 245)
+        view.maximumTrackTintColor = UIColor(integralRed: 61, green: 148, blue: 245, alpha: 0.3)
         view.addTarget(self, action: #selector(update(sender:)), for: .valueChanged)
         view.translatesAutoresizingMaskIntoConstraints = false
         addSubview(view)
@@ -139,7 +140,7 @@ private extension OSlide8View {
             .textAlignment(.center)
         
         let view = UIButton()
-        view.backgroundColor = UIColor(integralRed: 198, green: 54, blue: 136)
+        view.backgroundColor = UIColor(integralRed: 61, green: 148, blue: 245)
         view.layer.cornerRadius = 30.scale
         view.setAttributedTitle("Onboarding.Proceed".localized.attributed(with: attrs), for: .normal)
         view.addTarget(self, action: #selector(onNext), for: .touchUpInside)

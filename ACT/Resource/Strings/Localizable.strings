@@ -21,8 +21,8 @@
 
 // MARK: Splash
 "Splash.Title.Part1" = "Preferred by\n";
-"Splash.Title.Part2" = "20 THOUSAND\n";
-"Splash.Title.Part3" = "US experts";
+"Splash.Title.Part2" = "CERTIFIED\n";
+"Splash.Title.Part3" = "experts";
 
 // MARK: Onboarding
 "Onboarding.Skip" = "Skip";
@@ -34,7 +34,7 @@
 "Onboarding.Slide1.Button" = "Let’s do it";
 "Onboarding.Slide2.Title" = "WHAT IS YOUR GENDER?";
 "Onboarding.Slide2.Man" = "Man";
-"Onboarding.Slide2.Woman" = "Woman";
+"Onboarding.Slide2.Woman" = "Female";
 "Onboarding.Slide3.Title" = "HOW OLD ARE YOU?";
 "Onboarding.Slide4.Title" = "WHAT ARE YOUR GOALS?";
 "Onboarding.Slide4.Cell1" = "Pass the exam";

@@ -46,7 +46,7 @@ extension OSlide3View: UIPickerViewDelegate {
         }
         
         let attrs = TextAttributes()
-            .textColor(UIColor(integralRed: 198, green: 54, blue: 136))
+            .textColor(UIColor(integralRed: 61, green: 148, blue: 245))
             .font(Fonts.SFProRounded.bold(size: 27.scale))
             .lineHeight(32.scale)
         
@@ -126,7 +126,7 @@ private extension OSlide3View {
             .textAlignment(.center)
         
         let view = UIButton()
-        view.backgroundColor = UIColor(integralRed: 198, green: 54, blue: 136)
+        view.backgroundColor = UIColor(integralRed: 61, green: 148, blue: 245)
         view.layer.cornerRadius = 30.scale
         view.setAttributedTitle("Onboarding.Proceed".localized.attributed(with: attrs), for: .normal)
         view.addTarget(self, action: #selector(onNext), for: .touchUpInside)

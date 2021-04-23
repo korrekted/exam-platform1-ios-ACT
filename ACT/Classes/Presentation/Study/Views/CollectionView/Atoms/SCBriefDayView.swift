@@ -82,7 +82,7 @@ private extension SCBriefDayView {
         view.layer.cornerRadius = 17.5.scale
         view.layer.masksToBounds = true
         view.textColor = UIColor.white
-        view.backgroundColor = UIColor(integralRed: 198, green: 54, blue: 136)
+        view.backgroundColor = UIColor(integralRed: 61, green: 148, blue: 245)
         view.font = Fonts.SFProRounded.semiBold(size: 17.scale)
         view.translatesAutoresizingMaskIntoConstraints = false
         addSubview(view)

@@ -195,14 +195,11 @@
 		96F451DB2632BACC000B77E3 /* OSlide9TagView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96F451102632BACC000B77E3 /* OSlide9TagView.swift */; };
 		96F451DC2632BACC000B77E3 /* OSlideQuestiionButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96F451112632BACC000B77E3 /* OSlideQuestiionButton.swift */; };
 		96F451DD2632BACC000B77E3 /* OSlide6Cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96F451122632BACC000B77E3 /* OSlide6Cell.swift */; };
-		96F451DE2632BACC000B77E3 /* OSlide2GenderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96F451132632BACC000B77E3 /* OSlide2GenderView.swift */; };
-		96F451DF2632BACC000B77E3 /* OSlide3View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96F451142632BACC000B77E3 /* OSlide3View.swift */; };
 		96F451E02632BACC000B77E3 /* OSlide14View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96F451152632BACC000B77E3 /* OSlide14View.swift */; };
 		96F451E12632BACC000B77E3 /* OSlide4View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96F451162632BACC000B77E3 /* OSlide4View.swift */; };
 		96F451E22632BACC000B77E3 /* OSlide9View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96F451172632BACC000B77E3 /* OSlide9View.swift */; };
 		96F451E32632BACC000B77E3 /* OSlideView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96F451182632BACC000B77E3 /* OSlideView.swift */; };
 		96F451E42632BACC000B77E3 /* OSlideQuestionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96F451192632BACC000B77E3 /* OSlideQuestionView.swift */; };
-		96F451E52632BACC000B77E3 /* OSlide2View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96F4511A2632BACC000B77E3 /* OSlide2View.swift */; };
 		96F451E62632BACC000B77E3 /* OSlide15View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96F4511B2632BACC000B77E3 /* OSlide15View.swift */; };
 		96F451E72632BACC000B77E3 /* OSlide7View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96F4511C2632BACC000B77E3 /* OSlide7View.swift */; };
 		96F451E82632BACC000B77E3 /* OSlide1View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96F4511D2632BACC000B77E3 /* OSlide1View.swift */; };
@@ -409,14 +406,11 @@
 		96F451102632BACC000B77E3 /* OSlide9TagView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OSlide9TagView.swift; sourceTree = "<group>"; };
 		96F451112632BACC000B77E3 /* OSlideQuestiionButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OSlideQuestiionButton.swift; sourceTree = "<group>"; };
 		96F451122632BACC000B77E3 /* OSlide6Cell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OSlide6Cell.swift; sourceTree = "<group>"; };
-		96F451132632BACC000B77E3 /* OSlide2GenderView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OSlide2GenderView.swift; sourceTree = "<group>"; };
-		96F451142632BACC000B77E3 /* OSlide3View.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OSlide3View.swift; sourceTree = "<group>"; };
 		96F451152632BACC000B77E3 /* OSlide14View.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OSlide14View.swift; sourceTree = "<group>"; };
 		96F451162632BACC000B77E3 /* OSlide4View.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OSlide4View.swift; sourceTree = "<group>"; };
 		96F451172632BACC000B77E3 /* OSlide9View.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OSlide9View.swift; sourceTree = "<group>"; };
 		96F451182632BACC000B77E3 /* OSlideView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OSlideView.swift; sourceTree = "<group>"; };
 		96F451192632BACC000B77E3 /* OSlideQuestionView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OSlideQuestionView.swift; sourceTree = "<group>"; };
-		96F4511A2632BACC000B77E3 /* OSlide2View.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OSlide2View.swift; sourceTree = "<group>"; };
 		96F4511B2632BACC000B77E3 /* OSlide15View.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OSlide15View.swift; sourceTree = "<group>"; };
 		96F4511C2632BACC000B77E3 /* OSlide7View.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OSlide7View.swift; sourceTree = "<group>"; };
 		96F4511D2632BACC000B77E3 /* OSlide1View.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OSlide1View.swift; sourceTree = "<group>"; };
@@ -1241,13 +1235,11 @@
 				96F451072632BACC000B77E3 /* OSlide5View.swift */,
 				96F451082632BACC000B77E3 /* OSlide8View.swift */,
 				96F451092632BACC000B77E3 /* Atoms */,
-				96F451142632BACC000B77E3 /* OSlide3View.swift */,
 				96F451152632BACC000B77E3 /* OSlide14View.swift */,
 				96F451162632BACC000B77E3 /* OSlide4View.swift */,
 				96F451172632BACC000B77E3 /* OSlide9View.swift */,
 				96F451182632BACC000B77E3 /* OSlideView.swift */,
 				96F451192632BACC000B77E3 /* OSlideQuestionView.swift */,
-				96F4511A2632BACC000B77E3 /* OSlide2View.swift */,
 				96F4511B2632BACC000B77E3 /* OSlide15View.swift */,
 				96F4511C2632BACC000B77E3 /* OSlide7View.swift */,
 				96F4511D2632BACC000B77E3 /* OSlide1View.swift */,
@@ -1267,7 +1259,6 @@
 				96F451102632BACC000B77E3 /* OSlide9TagView.swift */,
 				96F451112632BACC000B77E3 /* OSlideQuestiionButton.swift */,
 				96F451122632BACC000B77E3 /* OSlide6Cell.swift */,
-				96F451132632BACC000B77E3 /* OSlide2GenderView.swift */,
 			);
 			path = Atoms;
 			sourceTree = "<group>";
@@ -1569,7 +1560,6 @@
 				96F451B52632BACC000B77E3 /* TestStatsCellType.swift in Sources */,
 				96F451BA2632BACC000B77E3 /* TestStatsTableView.swift in Sources */,
 				96F4512B2632BACC000B77E3 /* TextAttributes.swift in Sources */,
-				96F451DF2632BACC000B77E3 /* OSlide3View.swift in Sources */,
 				96F4516D2632BACC000B77E3 /* GetStatsRequest.swift in Sources */,
 				96F451E42632BACC000B77E3 /* OSlideQuestionView.swift in Sources */,
 				96F451C92632BACC000B77E3 /* StatsView.swift in Sources */,
@@ -1584,7 +1574,6 @@
 				96F451682632BACC000B77E3 /* Brief.swift in Sources */,
 				96F451AD2632BACC000B77E3 /* PaygateSpecialOfferView.swift in Sources */,
 				96F451982632BACC000B77E3 /* QuestionViewCell.swift in Sources */,
-				96F451E52632BACC000B77E3 /* OSlide2View.swift in Sources */,
 				96F451C62632BACC000B77E3 /* StatsCellType.swift in Sources */,
 				96F451D12632BACC000B77E3 /* MainStatsDescriptionView.swift in Sources */,
 				96F4517E2632BACC000B77E3 /* SplashViewModel.swift in Sources */,
@@ -1601,7 +1590,6 @@
 				96F451472632BACC000B77E3 /* PaygateMainOffer.swift in Sources */,
 				96F4518D2632BACC000B77E3 /* CourseView.swift in Sources */,
 				96F451CE2632BACC000B77E3 /* MainStatsDescriptionLineView.swift in Sources */,
-				96F451DE2632BACC000B77E3 /* OSlide2GenderView.swift in Sources */,
 				96F451E62632BACC000B77E3 /* OSlide15View.swift in Sources */,
 				96F451612632BACC000B77E3 /* QuestionManagerDelagate.swift in Sources */,
 				96F451B92632BACC000B77E3 /* TestStatsProgressView.swift in Sources */,
@@ -1772,6 +1760,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Manual;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = 2W4U9UWRKZ;
 				INFOPLIST_FILE = "$(SRCROOT)/ACT/Resource/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
@@ -1779,7 +1768,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0.1;
+				MARKETING_VERSION = 1.0.2;
 				PRODUCT_BUNDLE_IDENTIFIER = exam.act;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "ACT Development Profile";
@@ -1797,6 +1786,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = 2W4U9UWRKZ;
 				INFOPLIST_FILE = "$(SRCROOT)/ACT/Resource/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
@@ -1804,7 +1794,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0.1;
+				MARKETING_VERSION = 1.0.2;
 				PRODUCT_BUNDLE_IDENTIFIER = exam.act;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "ACT AppStore Profile";

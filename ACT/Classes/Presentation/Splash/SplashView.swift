@@ -26,7 +26,7 @@ final class SplashView: UIView {
 // MARK: Private
 private extension SplashView {
     func initialize() {
-        backgroundColor = UIColor(integralRed: 247, green: 250, blue: 252)
+        backgroundColor = Appearance.backgroundColor
     }
 }
 
@@ -52,13 +52,13 @@ private extension SplashView {
 private extension SplashView {
     func makeTitleLabel() -> UILabel {
         let attrs1 = TextAttributes()
-            .textColor(UIColor(integralRed: 61, green: 148, blue: 245))
+            .textColor(Appearance.progress3Color)
             .font(Fonts.SFProRounded.bold(size: 40.scale))
             .lineHeight(48.scale)
             .textAlignment(.center)
         
         let attrs2 = TextAttributes()
-            .textColor(UIColor(integralRed: 247, green: 208, blue: 86))
+            .textColor(Appearance.progress2Color)
             .font(Fonts.SFProRounded.bold(size: 45.scale))
             .lineHeight(53.scale)
             .textAlignment(.center)

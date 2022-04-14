@@ -39,6 +39,8 @@
 	<string>$(CURRENT_PROJECT_VERSION)</string>
 	<key>FacebookAppID</key>
 	<string>1104011386787934</string>
+	<key>FacebookClientToken</key>
+	<string>ee6ac6d4bd27b71f034b7cc92f855322</string>
 	<key>FacebookDisplayName</key>
 	<string>ACT Exam</string>
 	<key>ITSAppUsesNonExemptEncryption</key>

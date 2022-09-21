@@ -18,7 +18,7 @@ final class GlobalDefinitions {
     static let sdkApiKey = "1A9BIyTgodAh8bqV"
     
     static let otterScaleHost = "https://analytics2.mastrapi.com"
-    static let otterScaleApiKey = "ORli7Tk18aWUSnxn"
+    static let otterScaleApiKey = "lOylCLDZyNh8nDDn"
 
     static let appStoreUrl = "https://apps.apple.com/app/act-prep/id1564276131"
     static let appleAppID = "1564276131"
